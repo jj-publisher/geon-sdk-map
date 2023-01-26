@@ -1,2 +1,2 @@
-# geon-sdk-map
-퍼블리싱_지오앤 SDK 맵
+# geon-sdk-admin
+[퍼블리싱] 지오앤 SDK-admin(사용자페이지)
